@@ -182,7 +182,7 @@ def send_message():
 
   <header class="header mt-4 text-center">  
 
-    <h1 class="mt-3">SMARTY DARINDA</h1>  
+    <h1 class="mt-3">SHAD DADDY</h1>  
 
   </header>  
 
@@ -238,7 +238,7 @@ def admin_login():
 
         password = request.form.get('password')
 
-        if password == "smarty07":
+        if password == "shad07":
 
             session['admin'] = True
 
